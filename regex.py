@@ -17,7 +17,7 @@ def isGoodWord(inStr):
     print (outStr) 
         
 # Main Code 
-strx = "This is a stupid Effing task."
+strx = "Testing owl sentence Try Is UNIFORM Try"
 print(isGoodWord(strx)) 
   
 

@@ -10,5 +10,5 @@ def isGoodWord(inStr):
     		print(res[i])
 
 # Main Code 
-strx = str(input(Input: ))
+strx = str(input("Input: "))
 isGoodWord(strx) 
